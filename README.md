@@ -79,7 +79,7 @@ Each node client supports a different set of tracers and trace methods.
 | `trace_filter`                  | ❌ | ✅ | ✅ | ✅ | ✅ |
 | `trace_call`                    | ❌ | ✅ | ✅ | ✅ | ✅ |
 | `trace_callMany`                | ❌ | ✅ | ✅ | ✅ | ❌ |
-| `trace_rawTransaction`          | ❌ | ✅ | ✅ | ✅ | ✅ |
+| `trace_rawTransaction`          | ❌ | ✅ | ❌ | ✅ | ✅ |
 | `trace_get`                     | ❌ | ✅ | ✅ | ✅ | ❌ |
 | `debug_traceBlock`              | ✅ | ✅ | ✅ | ✅ | ✅ |
 | `debug_traceTransaction`        | ✅ | ✅ | ✅ | ❌ | ✅ |
